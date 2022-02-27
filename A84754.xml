@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Foure wonderfull, bloudy, and dangerous plots discovered, and brought to light by Gods providence. With the manner and means of their discoverie and prevention. The 1. from Norwich, where a train of papists had conspired the firing of the citie, which was begun, but not effected. The second from Cheshire, wherin was intended the generall ruine of the whole country. The 3. a generall insurrection of the catholike adherents in divers parts of this kingdome. The 4. by a confederacy of papists to deliver a Iesuit, one William Waller, from the sentence of death, justly and according to law, pronounced against him, which was most auspieuously [sic] brought by a potter, by the carriage of a letter.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84754</idno>
+            <idno type="STC">Wing F1674</idno>
+            <idno type="STC">Thomason E147_1</idno>
+            <idno type="STC">ESTC R22559</idno>
+            <idno type="EEBO-CITATION">99871787</idno>
+            <idno type="PROQUEST">99871787</idno>
+            <idno type="VID">156666</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84754)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156666)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E147[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Foure wonderfull, bloudy, and dangerous plots discovered, and brought to light by Gods providence. With the manner and means of their discoverie and prevention. The 1. from Norwich, where a train of papists had conspired the firing of the citie, which was begun, but not effected. The second from Cheshire, wherin was intended the generall ruine of the whole country. The 3. a generall insurrection of the catholike adherents in divers parts of this kingdome. The 4. by a confederacy of papists to deliver a Iesuit, one William Waller, from the sentence of death, justly and according to law, pronounced against him, which was most auspieuously [sic] brought by a potter, by the carriage of a letter.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Gilbert,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Waller, William, d. 1641 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156666:1"/>
+            <pb facs="tcp:156666:1" rendition="simple:additions"/>
+            <p> FOURE Wonderfull, Bloudy, and Dangerous PLOTS DISCOVERED, And brought to Light by Gods Providence. With the manner and means of their Diſcoverie and prevention.</p>
+            <p>The 1. from <hi>Norwich,</hi> where a Train of Papiſts had conſpired the firing of the Citie, which was begun, but not effected.</p>
+            <p>The ſecond from <hi>Cheſhire,</hi> wherein was intended the Generall Ruine of the whole Country.</p>
+            <p>The 3. a generall inſurrection of the Catholike Adherents in divers parts of this Kingdome.</p>
+            <p>The 4. by a Confederacy of Papiſts to deliver a Ieſuit, one <hi>William Waller,</hi> from the ſentence of death, juſtly and according to Law, pronounced againſt him, which was moſt auſpicuouſly brought by a Porter, by the Carriage of a Letter.</p>
+            <p>London, Printed for Iohn Gilbert, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156666:2"/>
+            <pb facs="tcp:156666:2"/>
+            <head>The firſt Damnable and Helliſh Plot a<g ref="char:EOLhyphen"/>gainſt this Kingdome.</head>
+            <p>IN the City of <hi>Norrige</hi> there was a great Vp<g ref="char:EOLhyphen"/>rore, which awakened the Citizens of that place, and warned them to ſhake of their ſe<g ref="char:EOLhyphen"/>curity, and with all care and diligence to look in<g ref="char:EOLhyphen"/>to the inſuing danger, now imminent over their heads, and ready to fall upon them.</p>
+            <p>This Vprore was occaſioned by ſome inſolent, diſquiet, and ill intended Papiſts, who had concei<g ref="char:EOLhyphen"/>ved a miſchief in their hearts, and were not at peace untill they had executed and given birth unto their miſchievous deſign.</p>
+            <p>They had their Agents for this Attempt, and the mercileſſe fire muſt be t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e inſtrument, by which they intend to perfect their deſires, They had hired two mercenary Knaves, by whoſe hands they would bring their wiſhes to an end, which being placed at both ends of the City, at an oppointed time ſhould give fire to the Houſes, the one was diſcovered, being about to ſet fire to a thatcht houſe, and no harm was there acted, the other hadgiven fire to a houſe joyning to the high Bridge-ſtreet, which houſe for want of preſent aſ<g ref="char:EOLhyphen"/>ſiſtance was burnt down to the ground, but by the providence and mercy of God, there the miſ<g ref="char:EOLhyphen"/>chief
+<pb facs="tcp:156666:3"/> was ſtaid, and proceeded no further, which cauſed the Citiſens to keep a ſtrong Watch e<g ref="char:EOLhyphen"/>ver ſince, to prevent the like Attempts, if in Caſe any ſhould be ſet on foot.</p>
+            <p>The ſecond, was a generall inſurrection of the Papiſts in Cheſhire, occaſioned by an Order iſſu<g ref="char:EOLhyphen"/>ing forth from the High Court of Parliament, to this effect, That all Papiſts within his Majeſties Kingdome of England, ſhould be Diſarmed, and all Military Ammunition be taken from them.</p>
+            <p>The chief Officers in that County endeavou<g ref="char:EOLhyphen"/>red to put this in execution, but they found very ſtout and reſolute Oppoſers, who denyed to part with any of their Arms, reſolving rather to part with their Lives then their Arms and weapons. The Major having this bold and audacious An<g ref="char:EOLhyphen"/>ſwer returned, commanded the Aſſiſtance of the Train Bands to ſearch with him, who with their Muskets charged, with powder and bullets, did proceed in the Execution of the Majors Com<g ref="char:EOLhyphen"/>mand, and were reſolved, where they found any uncivill oppoſition, to ſhoot down their Houſes over their heads.</p>
+            <p>The Papiſts having intelligence of thir Com<g ref="char:EOLhyphen"/>mand, gathered together, and in the dead of the night began to ſet upon the City, and beat down the walls, the watch although not able to reſiſt, yet by their Clamor of Treaſon, preſently awa<g ref="char:EOLhyphen"/>kened the Citiſens, which cauſed the Rebels to fly unto my Lord Thooms his houſe, but before they could reach ſo far, two of them were taken, the
+<pb facs="tcp:156666:3"/> reſt by the Porters jealouſie, and the guard about the houſe were ſuſpected to be of the Train band, and by that means were denyed Admittance, who by the purſuit of the Train Band were car<g ref="char:EOLhyphen"/>ryed to priſon.</p>
+            <p>VVho no ſooner were laid faſt, but the whole Train Band deſired Admittance unto the Lords houſe which was denyed them; wherupon ſome af the Train Band Diſcharged upon the Houſe, and beat down part therof, at which the Lord be<g ref="char:EOLhyphen"/>ing affrighted, made an Eſcape, the Train Band entred the Houſe, and ſearched it, but could not proceed without ſome leſſe, for 15. of them were ſlain by the Papiſts who were in the Houſe ready provided with Muskets and Bullets.</p>
+            <p>The Ring-leader Starky himſelf was wounded, and by reaſon that he was not able to fly with the reſt, hee was apprehended and committed to pri<g ref="char:EOLhyphen"/>ſon, who being now ready to dye, confeſſed that they were encouraged to this Attempt, by the Lord Thoomes, and that their intent was to have ruin'd moſt part of the Citie, and to have ſlain all the Paoteſtants that they could reach, more hee confeſſed not, but with the extremity of pain, oc<g ref="char:EOLhyphen"/>caſioned by his wounds he preſently died.</p>
+            <pb facs="tcp:156666:4"/>
+            <p> The 3. was a generall inſurrection of the Pa<g ref="char:EOLhyphen"/>piſts in divers places of this Kingdome, which one M. <hi>Beal</hi> over-hearing the Diſcourſe of two of the Conſpirators, as hee was walking in the field, made diſcovery therof.</p>
+            <p>There were many Letters conveyed by many Papiſts by the Aſſiſtance of one Father <hi>Andrews</hi> to many places of this Kingdome. Letters were diſpatched into <hi>Buckiupham ſhire, Warwick ſhire,</hi> &amp;c. who when the firſt blow ſhould have bin gi<g ref="char:EOLhyphen"/>ven unto many worthym<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mbers of the Houſe of <hi>Parliament,</hi> &amp;c. that then the reſt of their confe<g ref="char:EOLhyphen"/>derates in the Country ſhould beſtir themſelves and play their parts alſo.</p>
+            <p>Notice of this was given to <hi>Alderman Soams,</hi> by M. <hi>Beal,</hi> by him to M. <hi>Pim.</hi> and the reſt of the Houſe, and by this means their bloudy procedings prevented.</p>
+            <p>The 4. and laſt, which at this preſent I ſhall relate, was a <hi>Conſpiracy</hi> to free fa<g ref="char:EOLhyphen"/>ther <hi>Walle, alias Walker, alias Ward, alias Slater,</hi> from the ſentence of death, which was immediatly noiſed among the tribe of the <hi>Romiſh Faction.</hi>
+            </p>
+            <p>Upon the 15. of that month, being <hi>July,</hi> a great Number gathered them<g ref="char:EOLhyphen"/>ſelves together to <hi>Curſtors Alley in Chan<g ref="char:EOLhyphen"/>cery Lane,</hi> where this Prieſt formerly
+<pb facs="tcp:156666:4"/> lodged, where they held a long and dan<g ref="char:EOLhyphen"/>gerous Counſell, how they might debar him out of the Hands of the Law and Juſtice, one of the Crew was reſolved to go to <hi>New-Gate,</hi> and in Piety to ſo holy a Cauſe, would change Apparell, and re<g ref="char:EOLhyphen"/>deem him with the loſſe of his own Life, <hi>thinking by this means to merit the e<g ref="char:EOLhyphen"/>ternall memorie of a Romiſh Saint.</hi>
+            </p>
+            <p>Having procured moneys of the reſt of the Brethren, and now being gone to wards <hi>New-Gate,</hi> more pious thought concerning his own wellfare came into his mind, and diverted him from that Reſolution, and having gotten a Salve for his Poverty, his Reſolution wa changed, and he reſolved to let <hi>Fathe Waller</hi> undergo his puniſhment him ſelf.</p>
+            <p>He was reſolved now for <hi>Rome,</hi> and meeting one <hi>Hodgskins</hi> a Porter, he ſent back his mind in a Letter to his Com<g ref="char:EOLhyphen"/>panions by that Porter, but the Letter having no ſuperſcription, and the Porter
+<pb facs="tcp:156666:5"/> being but of a reaſonable memory, for<g ref="char:EOLhyphen"/>got the parties Name to whom it was to be delivered.</p>
+            <p>Wherupon he opened the Letter, and having read the <hi>Contents,</hi> came to the ap<g ref="char:EOLhyphen"/>pointed place, found the Neaſt, but the Birds were flown, wherupon hee diſcovered all the Newes to a Gentle<g ref="char:EOLhyphen"/>man of good worth, and by this means their Plot was prevented, and Father <hi>Waller</hi> hanged.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
